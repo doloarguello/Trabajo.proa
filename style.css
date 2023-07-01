@@ -1,0 +1,16 @@
+.fondo {
+    background-color: blueviolet;
+    
+}
+.derecha{
+    margin-top: -3%;
+    text-align: right;
+}
+.span{
+    display: flex;
+    margin-left: 2.5%;
+}
+
+.separar{
+    padding-bottom: 5em;
+}
